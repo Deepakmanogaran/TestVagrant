@@ -1,0 +1,29 @@
+# Maven build files 
+target/
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+*.log
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA files
+*.iml
+*.ipr
+*.iws
+.idea/
+*.log
+
+# NetBeans files
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
